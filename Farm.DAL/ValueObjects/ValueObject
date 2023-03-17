@@ -1,0 +1,25 @@
+namespace Farm.DAL.ValueObjects;
+
+public abstract class ValueObject<T>
+    where T : ValueObject<T>
+{
+    public override bool Equals(object obj)
+    {
+        if (obj is not T valueObject)
+            return false;
+
+        if (GetType() != obj.GetType())
+            return false;
+
+        return EqualsCore(valueObject);
+    }
+
+    protected abstract bool EqualsCore(T other);
+
+    public override int GetHashCode()
+    {
+        return GetHashCodeCore();
+    }
+
+    protected abstract int GetHashCodeCore();
+}

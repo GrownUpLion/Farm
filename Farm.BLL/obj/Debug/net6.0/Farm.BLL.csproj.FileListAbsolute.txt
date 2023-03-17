@@ -1,0 +1,12 @@
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.BLL\bin\Debug\net6.0\Farm.BLL.deps.json
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.BLL\bin\Debug\net6.0\Farm.BLL.dll
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.BLL\bin\Debug\net6.0\Farm.BLL.pdb
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.BLL\obj\Debug\net6.0\Farm.BLL.csproj.AssemblyReference.cache
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.BLL\obj\Debug\net6.0\Farm.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.BLL\obj\Debug\net6.0\Farm.BLL.AssemblyInfoInputs.cache
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.BLL\obj\Debug\net6.0\Farm.BLL.AssemblyInfo.cs
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.BLL\obj\Debug\net6.0\Farm.BLL.csproj.CoreCompileInputs.cache
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.BLL\obj\Debug\net6.0\Farm.BLL.dll
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.BLL\obj\Debug\net6.0\refint\Farm.BLL.dll
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.BLL\obj\Debug\net6.0\Farm.BLL.pdb
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.BLL\obj\Debug\net6.0\ref\Farm.BLL.dll

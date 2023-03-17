@@ -1,0 +1,13 @@
+using Farm.DAL.ValueObjects;
+using Farm.DAL.Enums;
+
+namespace Farm.DAL.Entities;
+
+public class Animal : IAnimal
+{
+    public int Id { get; private set; }
+    public AnimalType AnimalType { get; }
+    public bool IsFemale => throw new NotImplementedException();
+    public ICollection<Measure> Milkings => throw new NotImplementedException();
+    public ICollection<Measure> Feedings => throw new NotImplementedException();
+}

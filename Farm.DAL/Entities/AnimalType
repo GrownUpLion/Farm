@@ -1,0 +1,6 @@
+namespace Farm.DAL.Enums;
+public enum AnimalType
+{
+    Cow = 0,
+    Goat = 1
+}

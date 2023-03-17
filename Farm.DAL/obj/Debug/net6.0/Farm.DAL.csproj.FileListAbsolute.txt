@@ -1,0 +1,12 @@
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.DAL\bin\Debug\net6.0\Farm.DAL.deps.json
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.DAL\bin\Debug\net6.0\Farm.DAL.dll
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.DAL\bin\Debug\net6.0\Farm.DAL.pdb
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.DAL\obj\Debug\net6.0\Farm.DAL.csproj.AssemblyReference.cache
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.DAL\obj\Debug\net6.0\Farm.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.DAL\obj\Debug\net6.0\Farm.DAL.AssemblyInfoInputs.cache
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.DAL\obj\Debug\net6.0\Farm.DAL.AssemblyInfo.cs
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.DAL\obj\Debug\net6.0\Farm.DAL.csproj.CoreCompileInputs.cache
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.DAL\obj\Debug\net6.0\Farm.DAL.dll
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.DAL\obj\Debug\net6.0\refint\Farm.DAL.dll
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.DAL\obj\Debug\net6.0\Farm.DAL.pdb
+C:\Users\JosePelayo\PersonalProjects\Farm\Farm.DAL\obj\Debug\net6.0\ref\Farm.DAL.dll

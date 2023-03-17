@@ -1,0 +1,10 @@
+using Farm.DAL.ValueObjects;
+using Farm.DAL.Enums;
+namespace Farm.DAL.Entities;
+public interface IAnimal : IEntity
+{
+    public Boolean IsFemale { get; }
+    public AnimalType AnimalType { get; }
+    public ICollection<Measure> Milkings { get; }
+    public ICollection<Measure> Feedings { get; }
+}
